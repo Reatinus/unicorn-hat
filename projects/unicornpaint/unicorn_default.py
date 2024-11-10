@@ -31,5 +31,7 @@ def random_sparkles():
         # Turn off the pixel
         unicorn.set_pixel(x, y, 0, 0, 0)
         unicorn.show()
+        #comment
+        
 
 # Run the random sparkles function
